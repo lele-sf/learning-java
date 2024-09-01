@@ -1,0 +1,36 @@
+# Compiled class files
+/bin/
+/target/
+*.class
+
+# IDE-specific files
+/.vscode/
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# Maven
+/.mvn/
+/target/
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/pom.xml.next
+/release.properties
+
+# Gradle
+/.gradle/
+/build/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# IntelliJ
+/out/
+
+# Other
+.DS_Store
